@@ -1,0 +1,82 @@
+Timestamp,Participant code,Year of study,How long have you been programming?,How comfortable are you reading Python code?,S004: How difficult is this code to understand?,S004: How confident are you that you understood what this code does?,S009: How difficult is this code to understand?,S009: How confident are you that you understood what this code does?,S001: How difficult is this code to understand?,S001: How confident are you that you understood what this code does?,S012: How difficult is this code to understand?,S012: How confident are you that you understood what this code does?,S011: How difficult is this code to understand?,S011: How confident are you that you understood what this code does?,S010: How difficult is this code to understand?,S010: How confident are you that you understood what this code does?,S002: How difficult is this code to understand?,S002: How confident are you that you understood what this code does?,S007: How difficult is this code to understand?,S007: How confident are you that you understood what this code does?,S008: How difficult is this code to understand?,S008: How confident are you that you understood what this code does?,S006: How difficult is this code to understand?,S006: How confident are you that you understood what this code does?,S005: How difficult is this code to understand?,S005: How confident are you that you understood what this code does?,S003: How difficult is this code to understand?,S003: How confident are you that you understood what this code does?,S004: How difficult is this code to understand?,S004: How confident are you that you understood what this code does?
+10/10/2026 22:40:56,6623,Postgraduate,6 to 12 months,5,2,5,2,5,1,5,5,5,4,4,7,2,1,5,4,4,1,5,2,5,2,5,3,4,5,3
+10/10/2026 23:03:13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/10/2026 23:38:40,2158,Postgraduate,Less than 6 months,3,4,3,6,3,4,3,6,2,5,2,5,3,1,5,2,4,4,3,2,4,2,4,5,3,4,4
+10/17/2026 12:28:24,1096,Postgraduate,Less than 6 months,3,5,3,5,3,5,3,4,3,5,3,5,3,5,3,5,3,4,3,5,3,4,3,5,3,5,2
+10/17/2026 12:34:19,5058,Postgraduate,Less than 6 months,2,2,1,2,2,2,2,3,3,4,2,3,3,1,1,3,3,3,4,5,2,4,3,3,2,1,1
+10/17/2026 13:09:43,6900,3rd year UG,Less than 6 months,1,9,4,4,3,3,2,5,4,2,3,3,2,8,3,4,3,3,3,5,3,2,3,5,4,6,2
+10/17/2026 13:33:02,4873,Postgraduate,Less than 6 months,1,10,1,10,2,10,1,10,1,10,1,10,1,10,1,10,1,10,1,10,1,10,1,10,1,10,1
+10/17/2026 17:57:44,1290,Postgraduate,1 to 2 years,4,2,4,3,4,1,5,4,3,3,4,3,4,1,5,1,5,1,5,2,4,1,4,1,5,2,4
+10/18/2026 13:30:36,1445,Postgraduate,More than 2 years,4,10,5,8,5,7,5,9,3,8,3,6,4,1,5,1,5,1,5,2,4,1,5,1,5,1,5
+10/18/2026 13:44:40,6951,Postgraduate,Less than 6 months,1,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3
+10/18/2026 13:48:13,0,Postgraduate,More than 2 years,2,1,5,1,5,1,5,2,3,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5
+10/18/2026 16:40:39,7736,Other,Less than 6 months,1,4,1,5,2,3,3,3,3,3,3,5,3,6,4,4,2,8,2,7,2,3,3,4,3,7,2
+10/19/2026 12:13:17,4009,Postgraduate,More than 2 years,5,1,5,2,5,1,5,4,4,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5
+10/19/2026 12:14:40,7173,Postgraduate,1 to 2 years,4,3,3,5,3,1,5,8,2,3,4,3,4,1,5,1,5,1,5,1,5,1,5,1,5,3,3
+10/19/2026 12:23:24,2123,Postgraduate,Less than 6 months,2,4,2,4,2,1,5,10,1,9,2,9,2,1,5,2,3,2,3,1,4,2,4,3,3,2,4
+10/19/2026 12:25:52,2970,Postgraduate,Less than 6 months,3,8,1,4,3,1,1,9,1,8,1,5,2,1,5,1,5,1,5,3,3,2,4,1,5,3,4
+10/19/2026 12:44:36,3730,Postgraduate,1 to 2 years,3,5,3,3,3,2,4,7,2,5,3,4,4,1,5,5,3,3,4,3,4,4,3,3,4,3,4
+10/19/2026 13:10:07,2425,Postgraduate,More than 2 years,5,1,5,5,3,1,5,5,4,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5
+10/19/2026 14:47:29,2135,Postgraduate,Less than 6 months,3,3,3,3,3,2,4,3,3,3,3,3,3,1,5,2,4,1,5,2,4,2,4,2,4,2,4
+10/19/2026 17:56:22,6750,Postgraduate,More than 2 years,5,3,4,5,3,1,5,4,3,3,4,2,4,1,5,1,5,1,5,1,5,2,4,1,5,3,4
+10/19/2026 18:18:21,2378,Postgraduate,More than 2 years,4,8,4,8,4,8,4,8,4,8,4,8,4,8,4,8,4,8,4,8,4,8,4,8,4,8,4
+10/19/2026 22:10:28,3949,Postgraduate,More than 2 years,5,1,5,1,5,1,5,4,2,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5
+10/19/2026 22:18:04,9518,Postgraduate,More than 2 years,4,1,5,5,3,1,5,6,3,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5
+10/19/2026 22:22:15,9539,Postgraduate,More than 2 years,3,2,2,5,3,1,1,5,3,4,3,2,2,1,5,1,5,1,5,1,5,1,5,1,5,3,3
+10/19/2026 22:48:01,619,Postgraduate,Less than 6 months,3,1,4,5,3,1,5,7,1,1,5,2,3,1,5,3,4,1,1,1,5,1,5,1,5,1,5
+10/19/2026 22:48:22,7976,Postgraduate,Less than 6 months,3,5,2,5,3,1,5,10,1,2,4,5,3,1,5,3,4,1,4,1,5,1,5,1,5,5,3
+10/19/2026 22:49:21,620,Postgraduate,Less than 6 months,1,10,1,10,1,10,1,10,1,10,1,10,1,10,1,10,1,10,1,10,1,10,1,10,1,10,1
+10/19/2026 22:50:01,8622,1st year UG,Less than 6 months,1,2,3,4,4,1,5,8,1,7,2,8,2,2,4,3,3,7,4,10,1,1,5,1,5,1,5
+10/19/2026 22:50:20,2633,1st year UG,Less than 6 months,3,5,3,4,4,5,3,5,4,4,4,6,4,5,4,4,3,5,3,5,3,5,3,5,3,6,3
+10/19/2026 22:52:48,5741,Postgraduate,Less than 6 months,4,5,3,5,3,1,5,5,3,5,3,5,3,4,4,3,4,1,5,2,4,3,4,5,3,5,3
+10/19/2026 22:52:54,1787,Postgraduate,1 to 2 years,3,1,5,3,4,1,5,4,3,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5
+10/19/2026 23:01:02,8266,Postgraduate,More than 2 years,4,2,2,2,4,1,5,8,2,5,2,4,2,2,3,2,4,1,5,8,3,3,3,2,3,3,3
+10/19/2026 23:01:56,1902,Postgraduate,Less than 6 months,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+10/19/2026 23:03:26,1302,Other,1 to 2 years,4,1,5,4,5,1,5,6,4,5,4,4,4,1,5,1,5,1,5,1,5,1,5,1,5,1,5
+10/19/2026 23:05:02,6176,3rd year UG,1 to 2 years,3,3,3,4,3,9,5,4,3,9,5,9,5,6,3,5,4,1,5,8,5,7,4,6,2,4,2
+10/19/2026 23:11:58,1964,4th year UG,Less than 6 months,2,8,2,3,2,8,2,8,2,9,3,6,2,9,2,3,3,6,3,4,2,8,3,9,3,8,3
+10/19/2026 23:20:43,577,Postgraduate,Less than 6 months,1,10,5,1,2,2,5,2,4,2,2,5,4,4,3,5,4,4,4,10,5,6,4,10,4,8,5
+10/19/2026 23:29:48,9639,Postgraduate,Less than 6 months,2,4,3,5,2,4,3,6,3,5,4,4,3,5,4,5,3,5,4,6,3,4,3,5,3,5,3
+10/19/2026 23:36:41,4673,Other,Less than 6 months,3,7,2,5,2,1,5,6,2,5,3,2,4,1,5,1,5,1,5,1,5,2,4,3,4,5,2
+10/19/2026 23:38:47,6873,4th year UG,6 to 12 months,2,6,3,3,2,1,5,10,1,4,4,7,2,2,4,2,4,2,5,1,5,3,4,1,5,1,5
+10/19/2026 23:39:33,4060,Postgraduate,More than 2 years,2,2,3,5,3,1,5,6,2,3,3,2,4,1,5,1,5,1,5,2,5,2,4,2,4,3,4
+10/19/2026 23:51:32,3111,Postgraduate,Less than 6 months,2,3,3,8,2,2,4,8,1,7,4,5,4,6,4,8,5,7,4,8,4,1,5,4,4,9,4
+10/19/2026 23:52:31,2664,Postgraduate,Less than 6 months,3,1,5,4,2,1,4,9,1,7,2,6,4,1,5,1,5,1,5,1,5,1,5,1,5,1,5
+10/20/2026 0:08:37,9115,4th year UG,More than 2 years,3,7,3,3,2,9,4,8,2,3,3,2,5,1,5,1,5,1,5,3,3,1,5,3,3,3,3
+10/20/2026 1:14:41,2797,Postgraduate,More than 2 years,5,1,5,1,5,1,5,4,4,2,5,2,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5
+10/20/2026 1:37:15,5744,Postgraduate,Less than 6 months,3,1,4,3,4,2,5,5,2,1,5,7,1,2,4,2,5,1,5,1,5,8,1,8,1,7,1
+10/20/2026 1:42:06,5215,4th year UG,1 to 2 years,4,1,4,2,4,1,5,3,4,3,3,3,4,1,5,1,5,1,5,1,5,1,5,1,5,2,4
+10/20/2026 4:23:37,2,Postgraduate,More than 2 years,5,1,5,3,5,1,5,4,3,2,5,2,4,1,5,3,4,1,5,1,5,1,5,1,5,1,5
+10/20/2026 8:08:23,8270,Other,6 to 12 months,5,1,5,1,5,1,5,4,4,5,5,1,5,1,5,3,5,1,5,1,5,1,5,1,5,1,5
+10/20/2026 9:02:27,2552,2nd year UG,1 to 2 years,3,1,5,2,5,1,5,3,4,2,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5
+10/20/2026 11:14:48,705,4th year UG,Less than 6 months,1,10,1,10,1,10,1,10,1,10,1,10,1,10,1,10,1,10,1,10,1,10,1,10,1,10,1
+10/20/2026 11:56:10,2498,3rd year UG,More than 2 years,5,1,5,2,5,1,5,5,4,1,5,1,5,1,5,1,5,1,5,1,5,2,5,1,5,1,5
+10/20/2026 14:28:32,3042,Postgraduate,More than 2 years,5,1,5,1,5,1,5,5,3,3,4,1,5,1,5,3,4,1,5,1,5,1,5,1,5,1,5
+10/20/2026 15:56:20,5604,Postgraduate,More than 2 years,4,2,5,6,3,1,5,9,1,5,3,5,3,1,5,3,4,1,5,1,5,1,5,1,5,1,5
+10/20/2026 16:13:30,7872,Postgraduate,More than 2 years,4,5,3,6,1,5,3,4,4,5,4,6,3,7,4,5,4,2,4,4,4,5,4,5,4,3,3
+10/20/2026 16:17:33,2,Postgraduate,1 to 2 years,5,7,4,5,4,5,4,6,4,5,4,8,4,7,4,5,4,5,4,7,4,6,4,5,4,8,4
+10/20/2026 16:20:18,4264,Postgraduate,Less than 6 months,4,2,5,6,3,1,5,8,2,2,5,5,3,5,3,5,3,5,3,5,3,5,3,4,3,5,3
+10/20/2026 16:30:31,485,Postgraduate,Less than 6 months,2,5,3,6,2,2,5,5,3,5,3,5,3,1,4,5,3,5,3,3,3,4,3,5,4,5,3
+10/20/2026 16:31:09,8964,Postgraduate,Less than 6 months,4,2,2,2,2,1,2,9,5,8,5,8,4,2,2,3,1,3,2,3,2,4,3,2,2,2,1
+10/20/2026 16:32:43,2417,Postgraduate,Less than 6 months,1,3,2,9,1,1,5,10,1,10,1,10,1,1,5,3,3,4,3,4,3,9,2,5,3,5,3
+10/20/2026 17:07:01,3167,Postgraduate,More than 2 years,4,3,4,2,4,1,5,7,3,3,5,4,4,1,5,2,5,2,5,1,5,1,5,1,5,3,4
+10/20/2026 23:48:14,2589,Other,6 to 12 months,4,3,4,5,3,1,5,10,4,4,4,3,4,1,5,4,4,3,4,1,5,1,5,1,5,1,5
+10/21/2026 11:42:33,8313,Other,More than 2 years,4,2,5,6,3,1,5,7,3,1,5,4,4,1,5,2,5,1,5,1,5,1,5,1,5,1,5
+10/21/2026 12:16:36,6340,1st year UG,Less than 6 months,3,2,5,2,5,1,5,6,2,1,5,2,5,1,5,2,5,1,5,1,5,2,5,1,5,2,5
+10/21/2026 23:13:31,6248,3rd year UG,More than 2 years,5,1,5,1,5,1,5,9,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5
+10/22/2026 9:02:13,8628,Postgraduate,More than 2 years,3,1,5,5,3,1,5,10,1,5,3,7,1,1,5,1,5,1,5,1,5,1,5,1,5,1,5
+10/23/2026 11:33:09,6623,Postgraduate,1 to 2 years,5,3,4,2,5,1,5,4,3,3,4,5,3,2,5,4,4,3,5,2,5,2,4,3,4,2,5
+10/23/2026 11:38:58,7890,4th year UG,6 to 12 months,3,2,5,9,4,5,5,5,5,3,2,2,3,1,2,1,2,1,2,1,4,2,4,2,3,3,3
+10/23/2026 11:40:24,8261,Postgraduate,More than 2 years,3,3,4,2,4,1,5,6,2,2,5,1,5,1,5,1,5,1,5,5,3,1,5,1,5,2,4
+10/23/2026 11:41:07,6358,Postgraduate,1 to 2 years,4,8,4,3,4,4,4,2,4,2,4,2,5,3,3,1,3,1,2,2,1,1,2,3,2,6,2
+10/23/2026 11:42:51,2638,4th year UG,6 to 12 months,3,2,3,1,4,3,3,2,4,3,3,2,2,2,4,3,4,3,2,2,4,2,3,2,3,2,3
+10/23/2026 11:43:36,2378,Other,More than 2 years,5,9,4,9,5,9,4,9,5,10,5,9,5,9,4,9,5,9,5,9,5,9,5,10,5,9,5
+10/23/2026 11:46:45,6668,Postgraduate,More than 2 years,4,1,2,3,4,1,5,5,3,3,4,3,4,1,5,1,5,1,5,1,5,1,5,1,5,2,5
+10/23/2026 11:47:10,6016,Postgraduate,Less than 6 months,3,6,3,7,1,1,5,7,2,7,1,7,1,1,5,3,4,2,4,6,3,2,4,2,4,6,3
+10/23/2026 11:54:52,919,4th year UG,6 to 12 months,5,1,1,1,5,1,4,4,4,2,4,4,4,1,5,3,3,3,4,4,4,5,4,3,4,3,4
+10/23/2026 17:25:27,6789,Postgraduate,1 to 2 years,5,6,3,5,4,2,5,5,3,4,5,4,4,3,4,4,4,4,4,4,5,2,5,2,5,4,5
+10/23/2026 17:29:59,5678,Postgraduate,6 to 12 months,3,7,2,7,2,4,4,6,3,7,3,6,3,3,4,5,4,6,4,4,4,8,2,5,3,5,3
+10/23/2026 17:32:49,5666,Postgraduate,More than 2 years,4,2,4,3,5,1,5,2,4,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5
+10/23/2026 17:51:45,8369,Postgraduate,6 to 12 months,3,5,3,5,3,1,5,7,3,6,3,5,3,1,5,2,4,5,3,5,3,5,3,1,5,5,3
+10/23/2026 17:57:12,8398,4th year UG,Less than 6 months,2,10,1,10,1,1,5,10,1,10,1,10,1,1,5,5,2,7,2,9,1,9,1,2,1,10,1
+10/23/2026 18:02:07,5058,Postgraduate,6 to 12 months,4,1,3,2,2,4,2,2,3,2,2,3,3,3,2,4,3,3,2,3,3,5,3,3,2,4,2
